@@ -1,0 +1,96 @@
+body{
+  background-color:  #2CB3F3;
+}
+
+h1{
+  font-size: 30px;
+  text-align: center;
+}
+
+p{
+  font-size: 20px;
+  text-align: center;
+}
+
+main{
+  position: absolute;
+  background-color: #FFFFFF;
+  height: 480px;
+  border-radius: 100px 100px 0px 0px;
+  width: 780px;
+  left: 390px;
+  top: 110px;
+}
+
+section{
+  position: absolute;
+  background-color: #FFE1C9;
+  width: 592px;
+  height: 387px;
+  left: 95px;
+  top: 50px;
+  border-radius: 400px;
+}
+
+.olho-direito{
+  position: absolute;
+  top: 120px;
+  left: 100px;
+  width: 55.7px;
+  height: 55.7px;
+  border-radius: 120px;
+  border-style: none;
+  background-color: black;
+}
+
+.olho-esquerdo{
+
+  position: absolute;
+  top: 120px;
+  left: 430px;
+  width: 55.7px;
+  height: 55.7px;
+  border-radius: 120px;
+  border-style: none;
+  background-color: black;
+}
+
+
+.email{
+  position: absolute;
+  width: 340px;
+  height: 40px;
+  left: 120px;
+  top: 240px;
+  border: 3px solid black;
+  box-sizing: border-box;
+  border-radius: 5px;
+  background-color: #FFFFFF;
+}
+
+.senha{
+  position: absolute;
+  width: 340px;
+  height: 40px;
+  left: 120px;
+  top: 280px;
+  border: 3px solid black;
+  box-sizing: border-box;
+  border-radius: 5px;
+  background-color: #FFFFFF;
+}
+
+.botao{
+  position: absolute;
+  background-color: #55A603;
+  color: #B2F272;
+  width: 270px;
+  height: 70px;
+  left: 170px;
+  top: 450px;
+  border: none;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px; 
+}
